@@ -3,6 +3,7 @@
 ## Project Overview
 
 This project explores an online retail dataset using Python to uncover sales trends, customer purchasing behavior, and business insights. The analysis includes data cleaning, feature engineering, exploratory data analysis (EDA), and data visualization.
+The online retail sales dataset used for this project is publicly available on kaggle
 
 ## Tools Used
 
